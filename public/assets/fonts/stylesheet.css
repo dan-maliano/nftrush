@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Akzidenz-Grotesk Pro Bold Ext';
+    src: url('AkzidenzGroteskPro-BoldEx.eot');
+    src: url('AkzidenzGroteskPro-BoldEx.eot?#iefix') format('embedded-opentype'),
+        url('AkzidenzGroteskPro-BoldEx.woff2') format('woff2'),
+        url('AkzidenzGroteskPro-BoldEx.woff') format('woff'),
+        url('AkzidenzGroteskPro-BoldEx.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
